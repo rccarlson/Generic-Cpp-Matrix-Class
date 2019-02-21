@@ -1,4 +1,4 @@
-# Generic-Cpp-Matrix-Class
+# Matrix-Class-Cpp
 Templated Matrix class for C++. Includes functions for determinant, inverse, transpose, and trace
 <p>This class is designed for use in data analytics, but is templated to be used with any data type. Please note that the mathematical operators require basic operators (+,-,*,/) to function.</p>
 <p>Matrices of this class can be operated on with any standard operator including those with equals (+=,-=,*=,/=). All operators can be used in conjuction with another Matrix or with a scalar of the data type the Matrix is templated for.</p>
