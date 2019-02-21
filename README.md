@@ -6,3 +6,4 @@ Templated Matrix class for C++. Includes functions for determinant, inverse, tra
 <p>Included math operators are dot product, determinant, inverse, transpose, and trace.</p>
 <b>Exceptions thrown:</b>
 <p>Depending on the operation being performed, the following custom exceptions may be thrown: InvalidDimensions, NotInvertable, DivideByZero, BadData, and OutOfBounds. Additional information can be found in the exception object's what().</p>
+<p>pch.h and pch.cpp are included, but serve no purpose aside from appeasing Visual Studio. These files can be ignored and their #include statement can be removed if your compiler allows.</p>
